@@ -28,7 +28,7 @@
   "profile": {
     "name": "typicode"
   },
-  "personDetailList": [
+  "person-detail-list": [
     {
       "id": 1,
       "isAppointmentHolder": true,
